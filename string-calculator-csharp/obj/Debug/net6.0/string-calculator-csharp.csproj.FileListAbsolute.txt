@@ -1,0 +1,15 @@
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\bin\Debug\net6.0\string-calculator-csharp.exe
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\bin\Debug\net6.0\string-calculator-csharp.deps.json
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\bin\Debug\net6.0\string-calculator-csharp.runtimeconfig.json
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\bin\Debug\net6.0\string-calculator-csharp.dll
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\bin\Debug\net6.0\string-calculator-csharp.pdb
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.csproj.AssemblyReference.cache
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.AssemblyInfoInputs.cache
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.AssemblyInfo.cs
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.csproj.CoreCompileInputs.cache
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.dll
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\refint\string-calculator-csharp.dll
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.pdb
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\string-calculator-csharp.genruntimeconfig.cache
+C:\Users\김정민\Desktop\playground\string-calculator-csharp\string-calculator-csharp\obj\Debug\net6.0\ref\string-calculator-csharp.dll
